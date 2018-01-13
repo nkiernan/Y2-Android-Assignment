@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HTTP Server App</string>
+    <string name="details_activity_header">Employee Details</string>
+</resources>
